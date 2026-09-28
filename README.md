@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Test%20Development-6f42c1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Based%20in-Chengdu-2ea44f?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20to-2027%20校招-orange?style=flat-square" />
 </p>
 
