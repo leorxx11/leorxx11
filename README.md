@@ -37,8 +37,14 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=leorxx11&show_icons=true&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorxx11&layout=compact&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
+    <img height="170" src="./profile-summary-card-output/default/3-stats.svg" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+    <img height="170" src="./profile-summary-card-output/default/2-most-commit-language.svg" />
+  </picture>
 </p>
 
 ### 📫 Contact
